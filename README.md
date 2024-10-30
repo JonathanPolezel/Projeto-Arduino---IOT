@@ -1,4 +1,4 @@
-# Projeto-Arduino---IOT
+# Projeto-Arduino---IOT - Linguagem C / C++
 
 // C++ code
 int celsius = 0;
